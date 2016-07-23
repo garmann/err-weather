@@ -1,0 +1,14 @@
+[Core]
+module = weatherinfo
+name = weatherinfo
+
+[Documentation]
+description = displays short weather informations for given city
+
+[Python]
+version = 3
+
+[Errbot]
+min = 4.2.2
+max = 4.2.2
+
