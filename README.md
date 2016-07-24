@@ -2,8 +2,6 @@
 
 this is a plugin for errbot which returns weather informations. this plugin uses the finger service at **graph.no** which serve its data from **yr.no**
 
-## install
-see requirements.txt
 
 ## usage
 - see !help
