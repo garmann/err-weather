@@ -2,6 +2,10 @@
 
 this is a plugin for errbot which returns weather informations. this plugin uses the finger service at **graph.no** which serve its data from **yr.no**
 
+## install
+- setup & use virtualenv
+- pip install -r requirements.txt
+- install plugin with: !repos install https://github.com/garmann/err-weather
 
 ## usage
 - see !help
